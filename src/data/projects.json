@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Ipl Score Prediction System",
+    "imageSrc": "projects/ipl.jpg",
+    "description": "This is a project made to predict the scores of team and players and also has many features like live score, player's database and so on.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/Abishek0918/IPL-Score-prediction-system"
+  },
+  {
+    "title": "Pain Management",
+    "imageSrc": "projects/pain.jpg",
+    "description": "This is a project made for stroke patients by creating a VR environment with many functionalities to over come the immobility.",
+    "skills": ["Unity", "Blender"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "MultiFeature web",
+    "imageSrc": "projects/text.jpeg",
+    "description": "This is a project made to experince multi features like translator,text to speech, summarizer, notepad and so on.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Movie Recommendation System",
+    "imageSrc": "projects/movies.jpg",
+    "description": "This is a project made to experince a simple recommendation system that recommends or suggests movies based on our intrests, needs or input ",
+    "skills": ["Streamlit", "Python", "ML"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

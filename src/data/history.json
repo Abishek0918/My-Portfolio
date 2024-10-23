@@ -1,0 +1,29 @@
+[
+  {
+    "role": "3D modeling and Animation",
+    "organisation": "Blender",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on designing several 3D models and making animations!"],
+    "imageSrc": "skills/Blender-Symbol.png"
+  },
+  {
+    "role": "Unity developer",
+    "organisation": "AR/VR",
+    "startDate": "feb, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Pain management project and Virtual garden!"],
+    "imageSrc": "skills/unity.png"
+  },
+  {
+    "role": "Web Development",
+    "organisation": "React.js",
+    "startDate": "Dec, 2023",
+    "endDate": "present",
+    "experiences": [
+      "Worked on Ipl score prediction system, Multifeature web, E-commerce website, and other websites based on databases and Machine Learning!"
+    ],
+    "imageSrc": "skills/react.png"
+  }
+  
+]
